@@ -1,0 +1,52 @@
+{
+  "job_id": "api_fe24cd7c3ebe493b8e367ab4",
+  "mode": "zip_split",
+  "file_url": "https://free-dl6.myalphadl.com/HSBTtYwOH2y8Z2euQN_JWQ/Ted.2.2015.720p.SoftSub.BluRay.YIFY.YIFY.mp4",
+  "suggested_filename": "Ted.2.2015.720p.SoftSub.BluRay.YIFY.YIFY.mp4",
+  "total_size_bytes": 747023608,
+  "created_at_utc": "2026-05-31T18:52:46.156410+00:00",
+  "zip_folder": "jobs/api_fe24cd7c3ebe493b8e367ab4/zip",
+  "zip_main_file": "Ted.2.2015.720p.SoftSub.BluRay.YIFY.YIFY_split.zip",
+  "zip_parts": [
+    {
+      "name": "Ted.2.2015.720p.SoftSub.BluRay.YIFY.YIFY_split.z01",
+      "path": "jobs/api_fe24cd7c3ebe493b8e367ab4/zip/Ted.2.2015.720p.SoftSub.BluRay.YIFY.YIFY_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Ted.2.2015.720p.SoftSub.BluRay.YIFY.YIFY_split.z02",
+      "path": "jobs/api_fe24cd7c3ebe493b8e367ab4/zip/Ted.2.2015.720p.SoftSub.BluRay.YIFY.YIFY_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Ted.2.2015.720p.SoftSub.BluRay.YIFY.YIFY_split.z03",
+      "path": "jobs/api_fe24cd7c3ebe493b8e367ab4/zip/Ted.2.2015.720p.SoftSub.BluRay.YIFY.YIFY_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Ted.2.2015.720p.SoftSub.BluRay.YIFY.YIFY_split.z04",
+      "path": "jobs/api_fe24cd7c3ebe493b8e367ab4/zip/Ted.2.2015.720p.SoftSub.BluRay.YIFY.YIFY_split.z04",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Ted.2.2015.720p.SoftSub.BluRay.YIFY.YIFY_split.z05",
+      "path": "jobs/api_fe24cd7c3ebe493b8e367ab4/zip/Ted.2.2015.720p.SoftSub.BluRay.YIFY.YIFY_split.z05",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Ted.2.2015.720p.SoftSub.BluRay.YIFY.YIFY_split.z06",
+      "path": "jobs/api_fe24cd7c3ebe493b8e367ab4/zip/Ted.2.2015.720p.SoftSub.BluRay.YIFY.YIFY_split.z06",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Ted.2.2015.720p.SoftSub.BluRay.YIFY.YIFY_split.z07",
+      "path": "jobs/api_fe24cd7c3ebe493b8e367ab4/zip/Ted.2.2015.720p.SoftSub.BluRay.YIFY.YIFY_split.z07",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Ted.2.2015.720p.SoftSub.BluRay.YIFY.YIFY_split.zip",
+      "path": "jobs/api_fe24cd7c3ebe493b8e367ab4/zip/Ted.2.2015.720p.SoftSub.BluRay.YIFY.YIFY_split.zip",
+      "size_bytes": 86420970
+    }
+  ]
+}
