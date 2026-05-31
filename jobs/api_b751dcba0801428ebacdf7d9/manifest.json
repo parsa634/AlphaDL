@@ -1,0 +1,52 @@
+{
+  "job_id": "api_b751dcba0801428ebacdf7d9",
+  "mode": "zip_split",
+  "file_url": "https://free-dl12.myalphadl.com/7ZrYnMx8v9Fe3o4Vstz13w/Ted.2012.BluRay.720p.SoftSub.YIFY.AlphaDL.mp4",
+  "suggested_filename": "Ted.2012.BluRay.720p.SoftSub.YIFY.AlphaDL.mp4",
+  "total_size_bytes": 734550102,
+  "created_at_utc": "2026-05-31T11:55:44.256439+00:00",
+  "zip_folder": "jobs/api_b751dcba0801428ebacdf7d9/zip",
+  "zip_main_file": "Ted.2012.BluRay.720p.SoftSub.YIFY.AlphaDL_split.zip",
+  "zip_parts": [
+    {
+      "name": "Ted.2012.BluRay.720p.SoftSub.YIFY.AlphaDL_split.z01",
+      "path": "jobs/api_b751dcba0801428ebacdf7d9/zip/Ted.2012.BluRay.720p.SoftSub.YIFY.AlphaDL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Ted.2012.BluRay.720p.SoftSub.YIFY.AlphaDL_split.z02",
+      "path": "jobs/api_b751dcba0801428ebacdf7d9/zip/Ted.2012.BluRay.720p.SoftSub.YIFY.AlphaDL_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Ted.2012.BluRay.720p.SoftSub.YIFY.AlphaDL_split.z03",
+      "path": "jobs/api_b751dcba0801428ebacdf7d9/zip/Ted.2012.BluRay.720p.SoftSub.YIFY.AlphaDL_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Ted.2012.BluRay.720p.SoftSub.YIFY.AlphaDL_split.z04",
+      "path": "jobs/api_b751dcba0801428ebacdf7d9/zip/Ted.2012.BluRay.720p.SoftSub.YIFY.AlphaDL_split.z04",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Ted.2012.BluRay.720p.SoftSub.YIFY.AlphaDL_split.z05",
+      "path": "jobs/api_b751dcba0801428ebacdf7d9/zip/Ted.2012.BluRay.720p.SoftSub.YIFY.AlphaDL_split.z05",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Ted.2012.BluRay.720p.SoftSub.YIFY.AlphaDL_split.z06",
+      "path": "jobs/api_b751dcba0801428ebacdf7d9/zip/Ted.2012.BluRay.720p.SoftSub.YIFY.AlphaDL_split.z06",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Ted.2012.BluRay.720p.SoftSub.YIFY.AlphaDL_split.z07",
+      "path": "jobs/api_b751dcba0801428ebacdf7d9/zip/Ted.2012.BluRay.720p.SoftSub.YIFY.AlphaDL_split.z07",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Ted.2012.BluRay.720p.SoftSub.YIFY.AlphaDL_split.zip",
+      "path": "jobs/api_b751dcba0801428ebacdf7d9/zip/Ted.2012.BluRay.720p.SoftSub.YIFY.AlphaDL_split.zip",
+      "size_bytes": 73947466
+    }
+  ]
+}
