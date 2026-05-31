@@ -1,0 +1,67 @@
+{
+  "job_id": "api_6c90e1b9643d465b96fcb3ae",
+  "mode": "zip_split",
+  "file_url": "https://free-dl10.myalphadl.com/PT8i6bkxrz8QOXndXBB2Cg/The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD.mkv",
+  "suggested_filename": "The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD.mkv",
+  "total_size_bytes": 1025903690,
+  "created_at_utc": "2026-05-31T11:48:51.253255+00:00",
+  "zip_folder": "jobs/api_6c90e1b9643d465b96fcb3ae/zip",
+  "zip_main_file": "The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.zip",
+  "zip_parts": [
+    {
+      "name": "The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.z01",
+      "path": "jobs/api_6c90e1b9643d465b96fcb3ae/zip/The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.z02",
+      "path": "jobs/api_6c90e1b9643d465b96fcb3ae/zip/The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.z03",
+      "path": "jobs/api_6c90e1b9643d465b96fcb3ae/zip/The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.z04",
+      "path": "jobs/api_6c90e1b9643d465b96fcb3ae/zip/The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.z04",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.z05",
+      "path": "jobs/api_6c90e1b9643d465b96fcb3ae/zip/The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.z05",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.z06",
+      "path": "jobs/api_6c90e1b9643d465b96fcb3ae/zip/The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.z06",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.z07",
+      "path": "jobs/api_6c90e1b9643d465b96fcb3ae/zip/The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.z07",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.z08",
+      "path": "jobs/api_6c90e1b9643d465b96fcb3ae/zip/The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.z08",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.z09",
+      "path": "jobs/api_6c90e1b9643d465b96fcb3ae/zip/The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.z09",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.z10",
+      "path": "jobs/api_6c90e1b9643d465b96fcb3ae/zip/The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.z10",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.zip",
+      "path": "jobs/api_6c90e1b9643d465b96fcb3ae/zip/The.Wolf.o.WS.2013.720p.SoftSub.BluRay.x265.10bit-GalaxyRG.AD_split.zip",
+      "size_bytes": 82185574
+    }
+  ]
+}
